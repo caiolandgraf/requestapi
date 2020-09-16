@@ -2,7 +2,7 @@
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@caiolandgraf-blue.svg?style=flat-square)](https://twitter.com/caiolandgraf)
 [![Source Code](http://img.shields.io/badge/source-caiolandgraf/requestapi-blue.svg?style=flat-square)](https://github.com/caiolandgraf/requestapi)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/caiolandgraf/request-api.svg?style=flat-square)](https://packagist.org/packages/caiolandgraf/request-api)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/caiolandgraf/resquest-api.svg?style=flat-square)](https://packagist.org/packages/caiolandgraf/resquest-api)
 [![Latest Version](https://img.shields.io/github/release/caiolandgraf/requestapi.svg?style=flat-square)](https://github.com/caiolandgraf/requestapi/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/caiolandgraf/requestapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/caiolandgraf/requestapi)

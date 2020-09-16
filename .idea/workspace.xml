@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd9400db-71cd-4794-be2f-b109cec695fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600267585648</updated>
-      <workItem from="1600267587162" duration="2848000" />
+      <workItem from="1600267587162" duration="3425000" />
     </task>
     <servers />
   </component>
@@ -62,6 +63,10 @@
       <screen x="0" y="122" width="1920" height="1052" />
     </state>
     <state x="693" y="564" width="523" height="259" key="ComposerInitDialogKey/0.122.1920.1052/1920.0.1920.1080@0.122.1920.1052" timestamp="1600268775250" />
+    <state x="743" y="406" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600270549774">
+      <screen x="0" y="122" width="1920" height="1052" />
+    </state>
+    <state x="743" y="406" width="424" height="484" key="FileChooserDialogImpl/0.122.1920.1052/1920.0.1920.1080@0.122.1920.1052" timestamp="1600270549774" />
     <state x="755" y="573" width="399" height="149" key="NewPhpFileDialog" timestamp="1600269507211">
       <screen x="0" y="122" width="1920" height="1052" />
     </state>
