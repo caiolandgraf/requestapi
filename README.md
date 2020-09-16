@@ -7,7 +7,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/caiolandgraf/requestapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/caiolandgraf/requestapi)
 [![Quality Score](https://img.shields.io/scrutinizer/g/caiolandgraf/requestapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/caiolandgraf/requestapi)
-[![Total Downloads](https://img.shields.io/packagist/dt/caiolandgraf/request-api.svg?style=flat-square)](https://packagist.org/packages/caiolandgraf/request-api)
+[![Total Downloads](https://img.shields.io/packagist/dt/caiolandgraf/resquest-api.svg?style=flat-square)](https://packagist.org/packages/caiolandgraf/resquest-api)
 
 ###### RequestApi Library is a small set of classes developed by Suporte Informátika to facilitate communication with API's and third-party forms...
 
