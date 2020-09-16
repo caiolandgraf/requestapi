@@ -2,12 +2,12 @@
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@caiolandgraf-blue.svg?style=flat-square)](https://twitter.com/caiolandgraf)
 [![Source Code](http://img.shields.io/badge/source-caiolandgraf/requestapi-blue.svg?style=flat-square)](https://github.com/caiolandgraf/requestapi)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/caiolandgraf/requestapi.svg?style=flat-square)](https://packagist.org/packages/caiolandgraf/requestapi)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/caiolandgraf/request-api.svg?style=flat-square)](https://packagist.org/packages/caiolandgraf/request-api)
 [![Latest Version](https://img.shields.io/github/release/caiolandgraf/requestapi.svg?style=flat-square)](https://github.com/caiolandgraf/requestapi/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/caiolandgraf/requestapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/caiolandgraf/requestapi)
 [![Quality Score](https://img.shields.io/scrutinizer/g/caiolandgraf/requestapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/caiolandgraf/requestapi)
-[![Total Downloads](https://img.shields.io/packagist/dt/caiolandgraf/requestapi.svg?style=flat-square)](https://packagist.org/packages/caiolandgraf/requestapi)
+[![Total Downloads](https://img.shields.io/packagist/dt/caiolandgraf/request-api.svg?style=flat-square)](https://packagist.org/packages/caiolandgraf/request-api)
 
 ###### RequestApi Library is a small set of classes developed by Suporte Informátika to facilitate communication with API's and third-party forms...
 
