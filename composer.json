@@ -1,0 +1,34 @@
+{
+  "name": "caiolandgraf/resquest-api",
+  "description": "Biblioteca para consumo e envio de formulários e api's",
+  "keywords": [
+    "FSPHP",
+    "Suporte Informatika",
+    "Caio Landgraf",
+    "SaaS",
+    "PHP",
+    "Full Stack",
+    "API",
+    "Request",
+    "CURL"
+  ],
+  "homepage": "https://www.suporteinformatika.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Caio Landgraf",
+      "email": "eu.caiolandgraf@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.3",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "CaioLandgraf\\RequestApi\\": "src"
+    }
+  }
+}
