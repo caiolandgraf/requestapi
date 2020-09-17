@@ -7,11 +7,11 @@
     array (
     ),
     'reference' => NULL,
-    'name' => 'caiolandgraf/resquest-api',
+    'name' => 'caiolandgraf/requestapi',
   ),
   'versions' => 
   array (
-    'caiolandgraf/resquest-api' => 
+    'caiolandgraf/requestapi' =>
     array (
       'pretty_version' => 'No version set (parsed as 1.0.0)',
       'version' => '1.0.0.0',

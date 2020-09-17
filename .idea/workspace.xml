@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd9400db-71cd-4794-be2f-b109cec695fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="dd9400db-71cd-4794-be2f-b109cec695fe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
@@ -46,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600267585648</updated>
-      <workItem from="1600267587162" duration="3524000" />
+      <workItem from="1600267587162" duration="3623000" />
     </task>
     <servers />
   </component>
@@ -74,5 +72,9 @@
       <screen x="0" y="122" width="1920" height="1052" />
     </state>
     <state x="449" y="283" key="SettingsEditor/0.122.1920.1052/1920.0.1920.1080@0.122.1920.1052" timestamp="1600267593653" />
+    <state x="524" y="205" width="872" height="885" key="find.popup" timestamp="1600363351935">
+      <screen x="0" y="122" width="1920" height="1052" />
+    </state>
+    <state x="524" y="205" width="872" height="885" key="find.popup/0.122.1920.1052/1920.0.1920.1080@0.122.1920.1052" timestamp="1600363351935" />
   </component>
 </project>
